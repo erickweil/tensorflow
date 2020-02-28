@@ -13,7 +13,7 @@ import os
 import random
 
 # Add the ptdraft folder path to the sys.path list
-sys.path.append('D:/tensorflow')
+#sys.path.append('D:/tensorflow')
 import networkIO
 
 import tensorflow as tf
